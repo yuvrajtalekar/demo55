@@ -1,0 +1,28 @@
+Q 1 Write a Java program to print 'Hello' on screen and then print your name on a separate line.
+ 
+Q 2  Wap to swap two numbers
+ 
+Q 3 How to swap two numbers without using a third variable?
+ 
+Q 4 wap to check is number is evenor odd.
+ 
+Q 5 wap to print fibonaci series .
+ 
+Q 6 wap to check value is within range or not
+ 
+Q 7 A school has following rules for grading system:
+a. Below 25 - F
+b. 25 to 45 - E
+c. 45 to 50 - D
+d. 50 to 60 - C
+e. 60 to 80 - B
+f. Above 80 - A
+Ask user to enter marks and print the corresponding grade
+ 
+
+Q 8 Take values of length and breadth of a rectangle from user and check if it is square or not.
+hint is length==breath square else rectangle 
+ 
+Q 9 check and print greater number among two numbers 
+ 
+Q 10  check and print greater number among three numbers
